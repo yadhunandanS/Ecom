@@ -11,5 +11,12 @@
     "url": "(https://github.com/yadhunandanS/Ecom.git)"
   },
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2",
+    "joi": "^17.12.1",
+    "mongoose": "^8.1.2",
+    "morgan": "^1.10.0",
+    "nodemon": "^3.0.3"
+  }
 }

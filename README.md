@@ -39,7 +39,7 @@ Note: admin username and password are : `a1@email.com` and `12345` and notice th
 ## Steps to run the application locally
 
 - clone the repository
-  `git clone https://github.com/srinidhim2/ecom.git`
+  `git clone https://github.com/yadhunandanS/Ecom.git`
 
 - install dependencies
   `npm install`

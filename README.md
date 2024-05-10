@@ -1,4 +1,4 @@
-# ecom
+# Ecom
  
 #### A simple Ecommerce backend API develeoped by using ExpressJS and NodeJS
 
